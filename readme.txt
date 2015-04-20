@@ -4,7 +4,7 @@ Tags: child,theme,themes,create,generate
 Donate link: http://www.stillbreathing.co.uk/donate
 License: GPLv2 or later
 Requires at least: 3.6
-Tested up to: 3.8.1
+Tested up to: 4.2
 Stable tag: trunk
 
 Create a child theme really easily from any installed theme.
